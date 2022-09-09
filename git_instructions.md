@@ -37,7 +37,7 @@ _Вернуться к последнему **коммиту**_
 **git merge <name_branch>**
 
 *Просмотр всех веток:*
-**git Branch**
+**git log**
 
 
 Выполнила <a href="https://github.com/annrud">Попова Анна</a>
