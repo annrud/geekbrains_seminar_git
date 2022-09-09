@@ -36,5 +36,11 @@ _Вернуться к последнему **коммиту**_
 *Слить ветки:*
 **git merge <name_branch>**
 
+*Слить ветки:*
+**git merge <name_of branch>**
+
+*Слить ветки:*
+**git merge <name_of branch>**
+
 Выполнила <a href="https://github.com/annrud">Попова Анна</a>
 
