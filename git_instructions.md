@@ -42,5 +42,8 @@ _Вернуться к последнему **коммиту**_
 *Слить ветки:*
 **git merge <name_of branch>**
 
+*Просмотр всех веток:*
+**git branch**
+
 Выполнила <a href="https://github.com/annrud">Попова Анна</a>
 
