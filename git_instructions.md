@@ -27,7 +27,7 @@ _Вернуться к последнему **коммиту**_
 **git show HEAD**
 
 *Создать ветку:*
-**git branch <name_branch>**
+**git branch <name_of_branch>**
 
 *Создать и переключиться на ветку:*
 **git branch -b <name_of_branch>**
