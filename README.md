@@ -54,13 +54,17 @@ _Вернуться к последнему **коммиту**_
 **git pull**
 
 *Запушить локальную ветку (если ветки на удаленном сервере нет, то она появится, а если есть - обновится):*
-**git push --set-upstream origin <branch_name>**
+
+**git push --set-upstream origin <branch_name>** *или* **git push -u origin <branch_name>**
 
 *Запушить:*
 **git push**
 
 *Подтянуть удаленные ветки*
 **git fetch --all**
+
+*Скопировать репозиторий:*
+**git clone <ссылка на git репозиторий>**
 
 Выполнила <a href="https://github.com/annrud">Попова Анна</a>
 
