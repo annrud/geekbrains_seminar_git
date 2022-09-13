@@ -33,19 +33,34 @@ _Вернуться к последнему **коммиту**_
 **git reset <идентификатор коммита>**
 
 *Создать ветку:*
-**git branch <name_of_branch>**
+**git branch <branch_name>**
 
 *Создать и переключиться на ветку:*
-**git branch -b <name_of_branch>**
+**git branch -b <branch_name>**
 
 *Переименовать ветку:*
 **git branch -m <branch_new_name>**
 
 *Слить ветки:*
-**git merge <name_branch>**
+**git merge <branch_name>**
 
 *Просмотр всех веток:*
 **git log**
+
+*Стянуть изменения из master:*
+**git pull origin master**
+
+*Стянуть актуальное состояние текщей ветки:*
+**git pull**
+
+*Запушить локальную ветку (если ветки на удаленном сервере нет, то она появится, а если есть - обновится):*
+**git push --set-upstream origin <branch_name>**
+
+*Запушить:*
+**git push**
+
+*Подтянуть удаленные ветки*
+**git fetch --all**
 
 Выполнила <a href="https://github.com/annrud">Попова Анна</a>
 
